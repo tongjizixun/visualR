@@ -14,7 +14,7 @@ library(stringr)
 china_map <- readOGR("D:/map-style01-github.shp")#Read the map file
 china_map <- fortify(china_map)#Convert map file to data frame
 #When you click in ↑↑↑, you will see that each id represents a region, and when you use the aes function below, fill=id means to fill the region corresponding to each id with color
-name_label <- read.csv("D:/map-style01-github.csv")#load text labels for different regions，need the latitude and longitude corresponding to each text label
+name_label <- read.csv("D:/map-style01-data-github.csv")#load text labels for different regions，need the latitude and longitude corresponding to each text label
 color <- c("#cca087","#e4c9b8","#c096aa","#eb6c35","white","#956a57","#84a570","#569dc9","white")#Specified colors set for different regions
 ggplot(china_map, aes(x=long, y=lat, group=group))+#long, lat, and group can be viewed in the data frame above
   geom_polygon(aes(fill=id), color="black") +#Fill according to different areas (id), adjust the boundary line to black
