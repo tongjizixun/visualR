@@ -6,5 +6,6 @@ Our project will showcase examples of visual graphing using R by students in the
 Yikun Chang  
 Jinwei Chen  
 Junxi Li  
-Hui Tang  
-Yueqian Wu  
+Hui Tang
+Zhiyue Wang
+Yueqian Wu
