@@ -1,5 +1,6 @@
-# Source: DOI: 10.1016/j.lanwpc.2023.100826
-# Date: 2023-06-23
+#Source: DOI: 10.1016/j.lanwpc.2023.100826
+#Date: 2023-06-23
+#Code: Junxi Li
 
 library(ggplot2)
 library(maps)

@@ -1,5 +1,7 @@
-#source：Sophie Welsche, Emmanuel C Mrimi, Efficacy and safety of moxidectin and albendazole compared with ivermectin and albendazole coadministration in adolescents infected with Trichuris trichiura in Tanzania: an open-label, non-inferiority, randomised, controlled, phase 2/3 trial, The Lancet Infectious Diseases
-#date：2023-06-08
+#Source：Sophie Welsche, Emmanuel C Mrimi, Efficacy and safety of moxidectin and albendazole compared with ivermectin and albendazole coadministration in adolescents infected with Trichuris trichiura in Tanzania: an open-label, non-inferiority, randomised, controlled, phase 2/3 trial, The Lancet Infectious Diseases
+#Date：2023-06-08
+#Code: Yikun Chang
+
 # create a data frame
 df <- data.frame(
   Variable = rep(c(

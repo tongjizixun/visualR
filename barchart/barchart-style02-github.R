@@ -1,5 +1,6 @@
-#Source:Hettiarachchi, Ayesh et al. Heart disease complicating pregnancy as a leading cause of maternal deaths in LMIC settings: the Sri Lankan experience; The Lancet Regional Health - Southeast Asia, Volume 15, 100223
-#Date:2023-06-16
+#Source: Hettiarachchi, Ayesh et al. Heart disease complicating pregnancy as a leading cause of maternal deaths in LMIC settings: the Sri Lankan experience; The Lancet Regional Health - Southeast Asia, Volume 15, 100223
+#Date: 2023-06-16
+#Code: Jinwei Chen
 
 # Import packages
 library(ggplot2)

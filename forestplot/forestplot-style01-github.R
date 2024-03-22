@@ -1,5 +1,6 @@
-# Source：Stamm T A, Partheymüller J, Mosor E, et al. 2023. Determinants of COVID-19 vaccine fatigue. Nature Medicine [J], 29: 1164-1171.
-# Date: 2023-06-02
+#Source：Stamm T A, Partheymüller J, Mosor E, et al. 2023. Determinants of COVID-19 vaccine fatigue. Nature Medicine [J], 29: 1164-1171.
+#Date: 2023-06-02
+#Code: Junxi Li
 
 library(ggplot2)
 Forest <- read.csv("D:/forestplot-style01-data-github.csv")#Data importing

@@ -1,5 +1,7 @@
-#Reference：Local government funding and life expectancy in England: a longitudinal ecological study. Lancet Public Health, 2021, 6(9): e641-e647
-#Date：20230602
+#Source：Local government funding and life expectancy in England: a longitudinal ecological study. Lancet Public Health, 2021, 6(9): e641-e647
+#Date：2023-06-02
+#Code: Yueqian Wu
+
 library(readxl) 
 library(lme4)
 library(splines)

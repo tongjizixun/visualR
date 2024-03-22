@@ -1,5 +1,7 @@
-#source:Doi: 10.1016/S0140-6736(20)31965-6.
-#date:2023-06-16
+#Source: Doi: 10.1016/S0140-6736(20)31965-6.
+#Date: 2023-06-16
+#Code: Yueqian Wu
+
 library(ggplot2)
 library(tidyverse)
 #set up a database

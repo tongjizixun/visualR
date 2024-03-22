@@ -1,7 +1,8 @@
-# Source: DOI: 10.1002/ejhf.172
-# Date: 2023-12-05
-# Using the built-in dataset 'pbc' in R
+#Source: DOI: 10.1002/ejhf.172
+#Date: 2023-12-05
+#Code: Wentao Zhao
 
+# Using the built-in dataset 'pbc' in R
 library(survival)
 library(ggplot2)
 data(pbc, package = "survival")

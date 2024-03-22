@@ -1,5 +1,6 @@
-# Source: Xie Y, Bowe B, Maddukuri G, Al-Aly Z. Comparative evaluation of clinical manifestations and risk of death in patients admitted to hospital with covid-19 and seasonal influenza: cohort study BMJ 2020; 371 :m4677 doi:10.1136/bmj.m4677 
-# Date:2023-06-02
+#Source: Xie Y, Bowe B, Maddukuri G, Al-Aly Z. Comparative evaluation of clinical manifestations and risk of death in patients admitted to hospital with covid-19 and seasonal influenza: cohort study BMJ 2020; 371 :m4677 doi:10.1136/bmj.m4677 
+#Date:2023-06-02
+#Code: Jinwei Chen
 
 # Import packages
 library(ggplot2)
